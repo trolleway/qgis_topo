@@ -1,0 +1,441 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="0">
+<symbols><symbol alpha="1" name="Валы береговые, исторические и др., не выражающиеся горизонталями_100к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Валы береговые, исторические и др., не выражающиеся горизонталями_100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="color_border" v="157,81,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Валы береговые, исторические и др., не выражающиеся горизонталями_25к-50к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1.5" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Валы береговые, исторические и др., не выражающиеся горизонталями_25к-50к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="color_border" v="157,81,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Входы в пещеры и гроты_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/cave_25k.svg" />
+        <prop k="offset" v="0,-0.45" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Входы в пещеры и гроты_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/cave_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Горизонтали вспомогательные_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="1.5;0.6" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Горизонтали вспомогательные_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="2;0.8" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Горизонтали дополнительные_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="3.8;0.8" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Горизонтали дополнительные_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="5;1" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Горизонтали основные_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Горизонтали основные утолщённые_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дайки_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дайки_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="color_border" v="157,81,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дайки_25к-50к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дайки_25к-50к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="color_border" v="157,81,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Задернованные уступы (бровки), не выражающиеся горизонталями_25к-100к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Задернованные уступы (бровки), не выражающиеся горизонталями_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="color_border" v="157,81,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Карстовые воронки_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/karst-filler_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Карстовые воронки_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/karst-filler_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="3" />
+      </layer>
+    </symbol>
+  <symbol alpha="1" name="Кратеры вулканов, не выражающиеся в масштабе карты_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/crater_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кратеры вулканов, не выражающиеся в масштабе карты_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/crater_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кратеры грязевых вулканов_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/crater-mod_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кратеры грязевых вулканов_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/crater-mod_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Курганы и бугры_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/mound_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Курганы и бугры_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/mound_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Курганы и бугры (полигон)_25к-100к" outputUnit="MM" type="fill">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1.5" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Курганы и бугры (полигон)_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="color_border" v="157,81,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,-0.5" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Обрывы_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Обрывы_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="color_border" v="157,81,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0.5" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Отдельно лежащие камни_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/stone-detach_25k.svg" />
+        <prop k="offset" v="0,-0.45" />
+        <prop k="size" v="0.9" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Отдельно лежащие камни_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/stone-detach_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Скалы-останцы_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/rock-relic_25k.svg" />
+        <prop k="offset" v="0,-0.55" />
+        <prop k="size" v="1.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Скалы-останцы_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/rock-relic_25k.svg" />
+        <prop k="offset" v="0,-0.75" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Скалы-останцы (крупные)_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/rock-relic_25k.svg" />
+        <prop k="offset" v="0,-0.75" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Скалы-останцы (крупные)_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/rock-relic_25k.svg" />
+        <prop k="offset" v="0,-1" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Скопления камней_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/stone-group_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Скопления камней_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/stone-group_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Ямы_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/pit_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Ямы_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/relief/pit_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Ямы (полигон)_25к-100к" outputUnit="MM" type="fill">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1.5" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Ямы (полигон)_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="157,81,0,255" />
+        <prop k="color_border" v="157,81,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0.5" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    </symbols>
+<colorramps />
+</qgis_style>

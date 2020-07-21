@@ -1,0 +1,866 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="0">
+<symbols><symbol alpha="1" name="Галечные поверхности_100к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/stony-surface-fill_100k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Галечные поверхности_100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Галечные поверхности_100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Галечные поверхности_100к@2" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Галечные поверхности_25к-50к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/stony-surface-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Галечные поверхности_25к-50к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Галечные поверхности_25к-50к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Галечные поверхности_25к-50к@2" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="галечные поверхности_эк" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/stony-surface-fill_25k.svg" />
+        <prop k="width" v="20" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@галечные поверхности_эк@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@галечные поверхности_эк@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@галечные поверхности_эк@2" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Глинистые поверхности_25к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/clay-land-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Глинистые поверхности_25к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Глинистые поверхности_25к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Заболоченность (точечный)_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/vegetation_grounds/waterlogged_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Каменистые поверхности_100к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/stony-surface-fill_100k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Каменистые поверхности_100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Каменистые поверхности_100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Каменистые поверхности_25к-50к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/stony-surface-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Каменистые поверхности_25к-50к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Каменистые поверхности_25к-50к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="каменистые поверхности_эк" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/stony-surface-fill_25k.svg" />
+        <prop k="width" v="20" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@каменистые поверхности_эк@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@каменистые поверхности_эк@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Каменистые россыпи_100к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/stony-fill_100k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Каменистые россыпи_100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Каменистые россыпи_100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Каменистые россыпи_25к-50к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/stony-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Каменистые россыпи_25к-50к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Каменистые россыпи_25к-50к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="каменистые россыпи_эк" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/stony-fill_25k.svg" />
+        <prop k="width" v="20" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@каменистые россыпи_эк@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@каменистые россыпи_эк@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кочковатые поверхности_100к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/tussock-fill_100k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кочковатые поверхности_100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кочковатые поверхности_100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кочковатые поверхности_25к-50к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/tussock-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кочковатые поверхности_25к-50к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кочковатые поверхности_25к-50к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Пески барханные_25к-100к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-barkhan-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески барханные_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески барханные_25к-100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески барханные_25к-100к@2" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Пески бугриситые_25к-100к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-tuberous-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески бугриситые_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески бугриситые_25к-100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Пески дюнные_25к-100к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-dune-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески дюнные_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески дюнные_25к-100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески дюнные_25к-100к@2" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Пески ровные_25к-100к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески ровные_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески ровные_25к-100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Пески ячеистые_25к-100к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/sand-cell-fill_25k.svg" />
+        <prop k="width" v="20" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески ячеистые_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески ячеистые_25к-100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Пески ячеистые_25к-100к@2" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Поверхности с буграми_100к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/tubercle-fill_100k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Поверхности с буграми_100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Поверхности с буграми_100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Поверхности с буграми_25к-50к" outputUnit="MM" type="fill">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/vegetation_grounds/tubercle-fill_25k.svg" />
+        <prop k="width" v="10" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Поверхности с буграми_25к-50к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Поверхности с буграми_25к-50к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Такыры_100к" outputUnit="MM" type="fill">
+      <layer class="SimpleFill" locked="0" pass="0">
+        <prop k="color" v="157,81,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="offset" v="0,0" />
+        <prop k="style" v="dense4" />
+        <prop k="style_border" v="no" />
+        <prop k="width_border" v="0.26" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="CentroidFill" locked="0" pass="0" />
+    </symbol>
+    <symbol alpha="1" name="@Такыры_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Такыры_100к@2" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/vegetation_grounds/takyr_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Такыры_25к-50к" outputUnit="MM" type="fill">
+      <layer class="SimpleFill" locked="0" pass="0">
+        <prop k="color" v="157,81,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="offset" v="0,0" />
+        <prop k="style" v="dense4" />
+        <prop k="style_border" v="no" />
+        <prop k="width_border" v="0.26" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="CentroidFill" locked="0" pass="0" />
+    </symbol>
+    <symbol alpha="1" name="@Такыры_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Такыры_25к-50к@2" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/vegetation_grounds/takyr_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="3" />
+      </layer>
+    </symbol>
+  <symbol alpha="1" name="Такыры (точечный)_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/vegetation_grounds/takyr_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Такыры (точечный)_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/vegetation_grounds/takyr_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="3" />
+      </layer>
+    </symbol>
+    </symbols>
+<colorramps />
+</qgis_style>

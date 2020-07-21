@@ -1,0 +1,1701 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="0">
+<symbols><symbol alpha="1" name="Артезианские колодцы и артезианские скважины_100к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Артезианские колодцы и артезианские скважины_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Берега с укреплёнными откосами(1)_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Берега с укреплёнными откосами(1)_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Берега с укреплёнными откосами(2)_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="-0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Берега с укреплёнными откосами(2)_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Берега с укреплёнными откосами(2)_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1.5" />
+        <prop k="offset" v="-0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Берега с укреплёнными откосами(2)_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Берега с укреплёнными откосами_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1.5" />
+        <prop k="offset" v="0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Берега с укреплёнными откосами_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водоёмы" outputUnit="MM" type="fill">
+      <layer class="SimpleFill" locked="0" pass="0">
+        <prop k="color" v="46,218,252,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="offset" v="0,0" />
+        <prop k="style" v="solid" />
+        <prop k="style_border" v="solid" />
+        <prop k="width_border" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водоёмы, берега примерно_25к-50к" outputUnit="MM" type="fill">
+      <layer class="SimpleFill" locked="0" pass="0">
+        <prop k="color" v="46,218,252,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="offset" v="0,0" />
+        <prop k="style" v="solid" />
+        <prop k="style_border" v="no" />
+        <prop k="width_border" v="0.26" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="4;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водоёмы пересыхающие_25к-50к" outputUnit="MM" type="fill">
+      <layer class="SimpleFill" locked="0" pass="0">
+        <prop k="color" v="46,218,252,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="offset" v="0,0" />
+        <prop k="style" v="solid" />
+        <prop k="style_border" v="no" />
+        <prop k="width_border" v="0.26" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2;0.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водомерные посты_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/hydro/water-meter_25k.svg" />
+        <prop k="offset" v="0,-1.1" />
+        <prop k="size" v="2.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водомерные посты_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/hydro/water-meter_25k.svg" />
+        <prop k="offset" v="0,-1.5" />
+        <prop k="size" v="3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водопроводы_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="10" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Водопроводы_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водопроводы_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="10" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Водопроводы_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водопроводы подземные_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="0;1.3;1.8;1;1.8;1;1.8;1.3" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="10" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Водопроводы подземные_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водопроводы подземные_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="0;1.2;2;0.8;2;0.8;2;1.2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="10" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Водопроводы подземные_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водохранилища и другие сооружения для сбора воды, не выражающиеся в масштабе карты_100к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="rectangle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водохранилища и другие сооружения для сбора воды, не выражающиеся в масштабе карты_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="rectangle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Главные колодцы_100к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Главные колодцы_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="ГЭС_25к-100к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="firstvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="lastvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="0.7" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1.3" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.7" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ГЭС_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ГЭС_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ГЭС_25к-100к@2" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дамбы(1)_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дамбы(1)_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дамбы(2)_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="-0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дамбы(2)_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дамбы(3)_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1.2" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дамбы(3)_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дамбы(4)_25к-50к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1.2" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дамбы(4)_25к-50к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дюкеры на водопроводах_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="1;0.5" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="firstvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="lastvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дюкеры на водопроводах_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дюкеры на водопроводах_25к-100к@2" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Источники_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/hydro/found_25k.svg" />
+        <prop k="offset" v="0,0.6" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Источники_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/hydro/found_25k.svg" />
+        <prop k="offset" v="0,0.7" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Каналы ирригационные_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="5" />
+        <prop k="offset" v="0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Каналы ирригационные_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Каналы уже 10м_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;1" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Каналы шире 10м, проектируемые_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="customdash" v="4;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Колодцы_100к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Колодцы_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.4" />
+      </layer>
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Колодцы бетонированные с механическим подъемом воды_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="rectangle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.4" />
+      </layer>
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Колодцы бетонированные с механическим подъёмом воды_100к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="rectangle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.6" />
+      </layer>
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кяризы действующие_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2.1;0.6;0.9;0.6" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="4.2" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кяризы действующие_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="1.05,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кяризы действующие_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2.8;0.8;1.2;0.8" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="5.6" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кяризы действующие_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="1.4,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кяризы заброшенные_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2.1;2.1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="4.2" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кяризы заброшенные_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="1.05,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кяризы заброшенные_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2.8;2.8" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="5.6" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кяризы заброшенные_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="1.4,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Мост_шоссе+жд_25к-100к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="firstvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="lastvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.8" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мост_шоссе+жд_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мост_шоссе+жд_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Мосты (длиннее_30м)25к_(длиннее_60м)50к_(длиннее_120)100к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="firstvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="lastvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.6" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мосты (длиннее_30м)25к_(длиннее_60м)50к_(длиннее_120)100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мосты (длиннее_30м)25к_(длиннее_60м)50к_(длиннее_120)100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Мосты длиннее 3м_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1.1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="firstvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="lastvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.65" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мосты длиннее 3м_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мосты длиннее 3м_25к-100к@2" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Мосты короче 3м_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="firstvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="lastvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мосты короче 3м_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мосты короче 3м_25к-100к@2" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Мосты разводные_25к-100к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="firstvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="lastvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="-0.5" />
+        <prop k="placement" v="centralpoint" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мосты разводные_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мосты разводные_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Мосты разводные_25к-100к@4" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Набережные деревянные(1)_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Набережные деревянные(1)_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Набережные деревянные(2)_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="-0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Набережные деревянные(2)_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Оборудованные источники_100к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="rectangle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.4" />
+      </layer>
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Оборудованные источники_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="rectangle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Постоянные знаки береговой сигнализации_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/hydro/signaling_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Постоянные знаки береговой сигнализации_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/hydro/signaling_25k.svg" />
+        <prop k="offset" v="0,-0.8" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки_0,15" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки_0,2" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки_0,3" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки_0,4" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки_0,5" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки_0,7" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.7" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки_1,0" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.7" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки_1,3" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1.3" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="round" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки пересыхающие_0,15" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2;0.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки пересыхающие_0,2" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2;0.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки пересыхающие_0,3" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2;0.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки пересыхающие_0,4" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2;0.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки пересыхающие_0,5" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.5" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="customdash" v="2;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки пересыхающие_0,7" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.7" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="customdash" v="2;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки пересыхающие_1,0" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="customdash" v="2;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.7" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки пересыхающие_1,3" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="customdash" v="2;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="1.3" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="customdash" v="2;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Реки подземные" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Реки подземные@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="31,99,176,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Урезы воды_100к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Урезы воды_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="31,99,176,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+  <symbol alpha="1" name="Чигири_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/hydro/water-wheel_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Чигири_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/hydro/water-wheel_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Шлюзы_25к-100к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="firstvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="lastvertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.8" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="-0.3" />
+        <prop k="placement" v="centralpoint" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="centralpoint" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Шлюзы_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0.2,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Шлюзы_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="arrowhead" />
+        <prop k="offset" v="0.2,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Шлюзы_25к-100к@4" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="equilateral_triangle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Шлюзы_25к-100к@5" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="46,218,252,255" />
+        <prop k="color_border" v="46,218,252,255" />
+        <prop k="name" v="equilateral_triangle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+  </symbols>
+<colorramps />
+</qgis_style>

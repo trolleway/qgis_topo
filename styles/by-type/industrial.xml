@@ -1,0 +1,1436 @@
+<?xml version='1.0' encoding='utf8'?>
+<qgis_style version="0">
+<symbols><symbol alpha="1" name="Аэродром_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/airport_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Аэродром_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/airport_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="3.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Бензоколонки_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/refueling_25k.svg" />
+        <prop k="offset" v="0,-0.9" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Бензоколонки_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/refueling_25k.svg" />
+        <prop k="offset" v="0,-1.2" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Бензоколонки_эк" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/refueling_25k.svg" />
+        <prop k="offset" v="0,-2" />
+        <prop k="size" v="4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Буддийские и другие храмы и пагоды_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/buddhist_25k.svg" />
+        <prop k="offset" v="0,-0.75" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Буддийские и другие храмы и пагоды_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/buddhist_25k.svg" />
+        <prop k="offset" v="0,-1" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Буддийские и другие храмы и пагоды (шпили)_25к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/buddhist-build_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Ветряные двигатели_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/wind-motor_25k.svg" />
+        <prop k="offset" v="0,-0.9" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Ветряные двигатели_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/wind-motor_25k.svg" />
+        <prop k="offset" v="0,-1.2" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Ветряные мельницы_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/windmill_25k.svg" />
+        <prop k="offset" v="0,-0.75" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Ветряные мельницы_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/windmill_25k.svg" />
+        <prop k="offset" v="0,-1" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водяные мельницы и лесопильни_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/watermill_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Водяные мельницы и лесопильни_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/watermill_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Выдающиеся памятники и монументы_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/monument_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Выдающиеся памятники и монументы_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/monument_25k.svg" />
+        <prop k="offset" v="0,-0.75" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Вышки лёгкого типа_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/tower-light_25k.svg" />
+        <prop k="offset" v="0,-0.4" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Вышки лёгкого типа_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/tower-light_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Вышки лёгкого типа_эк" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/tower-light_25k.svg" />
+        <prop k="offset" v="0,-1" />
+        <prop k="size" v="4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Газгольдеры_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/holder_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Газгольдеры_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/holder_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Газопроводы наземные_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="15" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Газопроводы наземные_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Газопроводы наземные_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="15" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Газопроводы наземные_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Газопроводы подземные_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="0;1.5;3.2;1.2;3.2;1.2;3.2;1.5" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="15" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Газопроводы подземные_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Газопроводы подземные_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="0;1.5;3.2;1.2;3.2;1.2;3.2;1.5" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="15" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Газопроводы подземные_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Древние исторические стены_25к-100к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1.2" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Древние исторические стены_25к-100к@0" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/ancient-wall_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Заводские трубы_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/tube_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Заводские трубы_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/tube_25k.svg" />
+        <prop k="offset" v="0,-0.8" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Заводы, фабрики и мельницы без труб_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/factory_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Заводы, фабрики и мельницы без труб_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/factory_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Заводы, фабрики и мельницы с трубами_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/factory-with-tube_25k.svg" />
+        <prop k="offset" v="0,-0.4" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Заводы, фабрики и мельницы с трубами_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/factory-with-tube_25k.svg" />
+        <prop k="offset" v="0,-0.55" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Каменные, кирпичные стены и металлические ограды_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1.5" />
+        <prop k="offset" v="-0.2" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Каменные, кирпичные стены и металлические ограды_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Капитальные сооружения башенного типа_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/tower-capital_25k.svg" />
+        <prop k="offset" v="0,-0.4" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Капитальные сооружения башенного типа_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/tower-capital_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Капитальные сооружения башенного типа_эк" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/tower-capital_25k.svg" />
+        <prop k="offset" v="0,-1" />
+        <prop k="size" v="4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Карьеры_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="157,83,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Карьеры_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="157,83,0,255" />
+        <prop k="color_border" v="157,83,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Карьеры (полигон)_25к-100к" outputUnit="MM" type="fill">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="157,83,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0.25" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Карьеры (полигон)_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="157,83,0,255" />
+        <prop k="color_border" v="157,83,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Карьеры (точечный)_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/quarry_100k.svg" />
+        <prop k="offset" v="0,-0.3" />
+        <prop k="size" v="1.1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Карьеры (точечный)_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/quarry_25k.svg" />
+        <prop k="offset" v="0,-0.5" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Карьеры_эк" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/quarry_25k.svg" />
+        <prop k="offset" v="0,-1" />
+        <prop k="size" v="4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кладбища_100к" outputUnit="MM" type="fill">
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/industry/cemetery-cross-fill.svg" />
+        <prop k="width" v="3.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кладбища_100к@0" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кладбища_25к-50к" outputUnit="MM" type="fill">
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/industry/cemetery-cross-fill.svg" />
+        <prop k="width" v="4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кладбища_25к-50к@0" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кладбища с густой растительностью_100к" outputUnit="MM" type="fill">
+      <layer class="SimpleFill" locked="0" pass="0">
+        <prop k="color" v="191,213,129,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="offset" v="0,0" />
+        <prop k="style" v="solid" />
+        <prop k="style_border" v="no" />
+        <prop k="width_border" v="0.15" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/industry/cemetery-cross-fill.svg" />
+        <prop k="width" v="3.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кладбища с густой растительностью_100к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кладбища с густой растительностью_25к-50к" outputUnit="MM" type="fill">
+      <layer class="SimpleFill" locked="0" pass="0">
+        <prop k="color" v="191,213,129,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="offset" v="0,0" />
+        <prop k="style" v="solid" />
+        <prop k="style_border" v="solid" />
+        <prop k="width_border" v="0.15" />
+      </layer>
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/industry/cemetery-cross-fill.svg" />
+        <prop k="width" v="4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кладбища с густой растительностью_25к-50к@1" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кладбища (точечный)_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/cemetery_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кладбища (точечный)_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/cemetery_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Кладбища_эк" outputUnit="MM" type="fill">
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/industry/cemetery-cross-fill.svg" />
+        <prop k="width" v="8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Кладбища_эк@0" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Линии связи_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="5" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Линии связи_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Лотки для спуска леса_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="5" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Лотки для спуска леса_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/wood-tray_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="ЛЭП на опорах менее 14м_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="8" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="16" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="16" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="vertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП на опорах менее 14м_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="3,0" />
+        <prop k="size" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП на опорах менее 14м_25к-100к@2" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="filled_arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП на опорах менее 14м_25к-100к@3" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="filled_arrowhead" />
+        <prop k="offset" v="6,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП на опорах менее 14м_25к-100к@4" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="ЛЭП с опорами высотой более 14м_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="16" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="16" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="16" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="vertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП с опорами высотой более 14м_100к@1" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/lep-shad_25k.svg" />
+        <prop k="offset" v="3,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП с опорами высотой более 14м_100к@2" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="filled_arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП с опорами высотой более 14м_100к@3" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="filled_arrowhead" />
+        <prop k="offset" v="6,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП с опорами высотой более 14м_100к@4" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/lep-shad_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="ЛЭП с опорами выше 14м_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="8" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="16" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="16" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="vertex" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП с опорами выше 14м_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/lep-shad_25k.svg" />
+        <prop k="offset" v="4,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП с опорами выше 14м_25к-50к@2" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="filled_arrowhead" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП с опорами выше 14м_25к-50к@3" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="filled_arrowhead" />
+        <prop k="offset" v="8,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@ЛЭП с опорами выше 14м_25к-50к@4" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/lep-shad_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Мазары, субурганы_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/mazar_25k.svg" />
+        <prop k="offset" v="0,-0.35" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Мазары, субурганы_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/mazar_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Мечети_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/mosque_25k.svg" />
+        <prop k="offset" v="0,-0.35" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Мечети_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/mosque_25k.svg" />
+        <prop k="offset" v="0,-0.5" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Мечети (шпили)_25к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/mosque-build_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Нефтепроводы наземные_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="15" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Нефтепроводы наземные_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Нефтепроводы наземные_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="15" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Нефтепроводы наземные_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Нефтепроводы подземные_100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="0.4;1.3;3.2;1.2;3.2;1.2;3.2;1.3" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="15" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Нефтепроводы подземные_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Нефтепроводы подземные_25к-50к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="0.4;1.3;3.2;1.2;3.2;1.2;3.2;1.3" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="15" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Нефтепроводы подземные_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Нефтяные, газовые и другие скважины без вышек_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/oil-without-tower_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Нефтяные, газовые и другие скважины без вышек_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/oil-without-tower_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Нефтяные, газовые и другие скважины без вышек_эк" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/oil-without-tower_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Нефтяные и газовые скважины с вышками_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/oil_25k.svg" />
+        <prop k="offset" v="0,-0.5" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Нефтяные и газовые скважины с вышками_эк" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/oil_25k.svg" />
+        <prop k="offset" v="0,-1" />
+        <prop k="size" v="4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Нефтяные скважины с вышками_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/oil_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Памятники и монументы_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/grave_25k.svg" />
+        <prop k="offset" v="0,-0.45" />
+        <prop k="size" v="0.9" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Памятники и монументы_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/grave_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Подводные кабели связи_25к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;1.5" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="dash" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="6.5" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Подводные кабели связи_25к-100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="2.5,0" />
+        <prop k="size" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Посадочные площадки_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/airport-light_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Посадочные площадки_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/airport-light_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="3.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Терриконы, отвалы пород_25к-50к" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="3" />
+        <prop k="offset" v="3" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Терриконы, отвалы пород_25к-50к@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Терриконы, отвалы пород_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.3" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Терриконы, отвалы пород (точечный)_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/dump_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Терриконы, отвалы пород (точечный)_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/dump_25k.svg" />
+        <prop k="offset" v="0,-0.8" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Терриконы,отвалы-эк" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/dump_25k.svg" />
+        <prop k="offset" v="0,-2" />
+        <prop k="size" v="4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Терриконы (полигон)_25к-50к" outputUnit="MM" type="fill">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="-2.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="-0.5" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Терриконы (полигон)_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Терриконы (полигон)_25к-50к@2" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Торфоразработки_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/peat_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="1.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Торфоразработки_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/peat_25k.svg" />
+        <prop k="offset" v="0,-0.8" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+  <symbol alpha="1" name="Торфоразработки (полигон)_100к" outputUnit="MM" type="fill">
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/industry/peat-fill.svg" />
+        <prop k="width" v="9" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Торфоразработки (полигон)_100к@0" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Торфоразработки (полигон)_100к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Торфоразработки (полигон)_25к-50к" outputUnit="MM" type="fill">
+      <layer class="SVGFill" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="svgFile" v="/industry/peat-fill.svg" />
+        <prop k="width" v="10" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Торфоразработки (полигон)_25к-50к@0" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="no" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.26" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Торфоразработки (полигон)_25к-50к@1" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.2" />
+      </layer>
+    </symbol>
+  <symbol alpha="1" name="Торфоразработки_эк" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/peat_25k.svg" />
+        <prop k="offset" v="0,-2" />
+        <prop k="size" v="4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="ТЭЦ (точечный)_25к-100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/power-station_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.9" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Устья шахтных стволов и штолен_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/mine_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Устья шахтных стволов и штолен_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/mine_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Устья шахтных стволов и штолен недействующих_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="name" v="/industry/mine_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Устья шахтных стволов и штолен недействующих_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="180" />
+        <prop k="name" v="/industry/mine_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.8" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Церкви_25к-100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/church_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Церкви (колокольни)_25к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/church-build_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="1.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Часовни_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/chapel_25k.svg" />
+        <prop k="offset" v="0,-0.35" />
+        <prop k="size" v="1.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Часовни_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/chapel_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Электрические подстанции_100к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/power-substation_25k.svg" />
+        <prop k="offset" v="0,-0.6" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Электрические подстанции_25к-50к" outputUnit="MM" type="marker">
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/power-substation_25k.svg" />
+        <prop k="offset" v="0,-0.7" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+  </symbols>
+<colorramps />
+</qgis_style>

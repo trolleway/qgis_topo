@@ -1,0 +1,767 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="0">
+<symbols><symbol alpha="1" name="Автомагистрали_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1.6" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Автомагистрали_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1.4" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.12" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Автомагистрали строящиеся_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1.6" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="4;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Автомагистрали строящиеся_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1.4" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="3;1.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дороги грунтовые_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.25" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дороги грунтовые_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дороги грунтовые улучшенные_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.8" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дороги грунтовые улучшенные_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.6" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дороги грунтовые улучшенные, строящиеся_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="4;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.8" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дороги грунтовые улучшенные, строящиеся_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="4;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.6" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дороги деревянные_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="miter" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.8" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дороги деревянные_25к@2" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дороги деревянные_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.6" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="1" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дороги деревянные_50к-100к@2" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="0.4" />
+      </layer>
+    </symbol>
+  <symbol alpha="1" name="Дороги полевые и лесные_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="4;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дороги полевые и лесные_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="3;0.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Дорожные насыпи_пример" outputUnit="MM" type="line">
+      <layer class="MarkerLine" locked="0" pass="0">
+        <prop k="interval" v="2" />
+        <prop k="offset" v="0" />
+        <prop k="placement" v="interval" />
+        <prop k="rotate" v="1" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="@Дорожные насыпи_пример@0" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,0,0,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="line" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Караванные пути_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="2.5;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Караванные тропы_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="2;0.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Тропы пешеходные_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="1.5;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Тропы пешеходные_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="1;0.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.15" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Труднопроезжаемые участки грунтовых дорог_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="4;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.25" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Труднопроезжаемые участки грунтовых дорог_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="3;0.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Труднопроезжаемые участки улучшенных грунтовых дорог_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0.15" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="2;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="-0.15" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.4" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Труднопроезжаемые участки улучшенных грунтовых дорог_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0.1" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.3" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="2;1" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="-0.1" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.3" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Участки дорог, оборудованные для взлёта и посадки самолётов_100к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="3.2" />
+      </layer>
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/airport_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="2.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Участки дорог, оборудованные для взлёта и посадки самолётов_25-50к" outputUnit="MM" type="marker">
+      <layer class="SimpleMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="color_border" v="0,0,0,255" />
+        <prop k="name" v="circle" />
+        <prop k="offset" v="-0.2,0" />
+        <prop k="size" v="4" />
+      </layer>
+      <layer class="SvgMarker" locked="0" pass="0">
+        <prop k="angle" v="0" />
+        <prop k="name" v="/industry/airport_25k.svg" />
+        <prop k="offset" v="0,0" />
+        <prop k="size" v="3.2" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Шоссе_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.8" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Шоссе_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.6" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="bevel" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Шоссе строящиеся_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.8" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.5" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="4;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.5" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Шоссе строящиеся_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="square" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.6" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.4" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="3;1.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.4" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Шоссе усовершенствованные_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1.2" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.7" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Шоссе усовершенствованные_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="3;1.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Шоссе усовершенствованные, строящиеся_25к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.6" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="4;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.6" />
+      </layer>
+    </symbol>
+    <symbol alpha="1" name="Шоссе усовершенствованные, строящиеся_50к-100к" outputUnit="MM" type="line">
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="0,0,0,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="1.2" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,255,255,255" />
+        <prop k="customdash" v="5;2" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="0" />
+        <prop k="width" v="0.7" />
+      </layer>
+      <layer class="SimpleLine" locked="0" pass="0">
+        <prop k="capstyle" v="flat" />
+        <prop k="color" v="255,128,0,255" />
+        <prop k="customdash" v="3;1.5" />
+        <prop k="joinstyle" v="round" />
+        <prop k="offset" v="0" />
+        <prop k="penstyle" v="solid" />
+        <prop k="use_custom_dash" v="1" />
+        <prop k="width" v="0.7" />
+      </layer>
+    </symbol>
+    </symbols>
+<colorramps />
+</qgis_style>
