@@ -5,13 +5,40 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="placeholder.svg"
    id="svg8"
    version="1.1"
-   viewBox="0 0 5 5"
-   height="5.0mm"
-   width="5.0mm">
+   viewBox="0 0 6.5068652 6.8120445"
+   height="6.8120446mm"
+   width="6.5068655mm">
   <defs
      id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="1"
+     inkscape:window-x="-9"
+     inkscape:window-height="984"
+     inkscape:window-width="1898"
+     fit-margin-bottom="1"
+     fit-margin-right="1"
+     fit-margin-left="1"
+     fit-margin-top="1"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="77.018133"
+     inkscape:cx="98.263272"
+     inkscape:zoom="3.959798"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -25,21 +52,25 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-46.280995,-68.157988)"
-     id="layer1">
+     transform="translate(-46.280994,-68.157986)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Слой 1">
     <text
        id="text20"
-       y="75.090424"
-       x="46.5937"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="70.636238"
+       x="47.109734"
+       style="font-style:normal;font-weight:normal;font-size:2.63716px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0659292"
        xml:space="preserve"><tspan
-         style="stroke-width:0.264583"
-         y="75.090424"
-         x="46.5937"
-         id="tspan18">зна</tspan><tspan
+         style="stroke-width:0.0659292"
+         y="70.636238"
+         x="47.109734"
+         id="tspan18"
+         sodipodi:role="line">зна</tspan><tspan
          id="tspan22"
-         style="stroke-width:0.264583"
-         y="88.31955"
-         x="46.5937">чок</tspan></text>
+         style="stroke-width:0.0659292"
+         y="73.932686"
+         x="47.109734"
+         sodipodi:role="line">чок</tspan></text>
   </g>
 </svg>
