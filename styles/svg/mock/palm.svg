@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    id="svg8"
    version="1.1"
-   viewBox="0 0 10.211992 3.6181581"
-   height="3.6181581mm"
-   width="10.211992mm">
+   viewBox="0 0 14.588535 5.956768"
+   height="5.956768mm"
+   width="14.588535mm">
   <defs
      id="defs2" />
   <metadata
@@ -25,17 +25,18 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-50.552631,-76.276444)"
+     transform="translate(-48.364362,-75.107134)"
      id="layer1">
     <text
+       transform="scale(0.79177816,1.26298)"
        id="text12"
-       y="78.86377"
-       x="51.338932"
-       style="font-style:normal;font-weight:normal;font-size:2.17739px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0544349"
+       y="63.333157"
+       x="61.932465"
+       style="font-style:normal;font-weight:normal;font-size:4.2156px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10539"
        xml:space="preserve"><tspan
          id="tspan14"
-         style="stroke-width:0.0544349"
-         y="78.86377"
-         x="51.338932">Пальма</tspan></text>
+         style="stroke-width:0.10539"
+         y="63.333157"
+         x="61.932465">Пальма</tspan></text>
   </g>
 </svg>
