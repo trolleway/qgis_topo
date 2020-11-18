@@ -1,0 +1,15 @@
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="13.1428" cy="13.1428" r="2.35714" stroke="black"/>
+<circle cx="13.143" cy="6.71429" r="0.714286" fill="black"/>
+<circle cx="13.143" cy="19.5712" r="0.714286" fill="black"/>
+<circle cx="6.71429" cy="13.143" r="0.714286" fill="black"/>
+<circle cx="19.5712" cy="13.143" r="0.714286" fill="black"/>
+<circle cx="7.57541" cy="9.92837" r="0.714286" transform="rotate(30 7.57541 9.92837)" fill="black"/>
+<circle cx="18.7102" cy="16.3571" r="0.714286" transform="rotate(30 18.7102 16.3571)" fill="black"/>
+<circle cx="7.57583" cy="16.3571" r="0.714286" transform="rotate(-30 7.57583 16.3571)" fill="black"/>
+<circle cx="18.7101" cy="9.92844" r="0.714286" transform="rotate(-30 18.7101 9.92844)" fill="black"/>
+<circle cx="9.92886" cy="18.7102" r="0.714286" transform="rotate(-60 9.92886 18.7102)" fill="black"/>
+<circle cx="16.3571" cy="7.57547" r="0.714286" transform="rotate(-60 16.3571 7.57547)" fill="black"/>
+<circle cx="9.92849" cy="7.57583" r="0.714286" transform="rotate(60 9.92849 7.57583)" fill="black"/>
+<circle cx="16.3572" cy="18.7101" r="0.714286" transform="rotate(60 16.3572 18.7101)" fill="black"/>
+</svg>

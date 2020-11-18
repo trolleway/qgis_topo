@@ -1,0 +1,10 @@
+<svg width="35" height="35" viewBox="0 0 35 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="18" cy="7" r="2.5" stroke="black"/>
+<path d="M14.5 12.5H21.5" stroke="black" stroke-linecap="round"/>
+<path d="M18 10V30" stroke="black" stroke-linecap="round"/>
+<path d="M9.23581 24.3034L10.3352 22.1589L11.9062 23.9864" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.5 23C10.7761 23 11 23.2239 11 23.5C11 23.9573 11.2016 24.7001 11.8485 25.329C12.486 25.9488 13.6007 26.5 15.5 26.5C15.7761 26.5 18 26.5 18 26.5C18 26.7761 18 30 18 30C14 28.5 12.014 26.8846 11.1515 26.046C10.2984 25.2166 10 24.2094 10 23.5C10 23.2239 10.2239 23 10.5 23Z" fill="black"/>
+<path d="M26.7642 24.3034L25.6648 22.1589L24.0938 23.9864" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25.5 23C25.2239 23 25 23.2239 25 23.5C25 23.9573 24.7984 24.7001 24.1515 25.329C23.514 25.9488 22.3993 26.5 20.5 26.5C20.2239 26.5 18 26.5 18 26.5C18 26.7761 18 30 18 30C22 28.5 23.986 26.8846 24.8485 26.046C25.7016 25.2166 26 24.2094 26 23.5C26 23.2239 25.7761 23 25.5 23Z" fill="black"/>
+<circle cx="18" cy="27" r="1" fill="black"/>
+</svg>

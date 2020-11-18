@@ -1,0 +1,10 @@
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 5L24.9999 5" stroke="black" stroke-linecap="round"/>
+<path d="M13 5V8" stroke="black" stroke-linecap="round"/>
+<path d="M21 5V8" stroke="black" stroke-linecap="round"/>
+<path d="M5 5V8" stroke="black" stroke-linecap="round"/>
+<path d="M1 21L24.9999 21" stroke="black" stroke-linecap="round"/>
+<path d="M13 21V18" stroke="black" stroke-linecap="round"/>
+<path d="M21 21V18" stroke="black" stroke-linecap="round"/>
+<path d="M5 21V18" stroke="black" stroke-linecap="round"/>
+</svg>
